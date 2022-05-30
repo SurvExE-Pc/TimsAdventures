@@ -1,0 +1,6 @@
+x=msgbox("My friend, I think the time has come" & vbNewLine & "To teach you how to be less dumb" & vbNewLine & "For threats and dangers everywhere" & vbNewLine & "Attack all those who do not care",48+vbOkOnly,"vid.mp4.exe")
+x=msgbox("So, when you grab a file online" & vbNewLine & "You should be checking if it's fine" & vbNewLine & "Do not be quick to open it" & vbNewLine & "Lest by a trojan you are hit",48+vbOkOnly,"vid.mp4.exe")
+x=msgbox("On VirusTotal you can test" & vbNewLine & "What antimalware would suggest" & vbNewLine & "If they were shown your file to see" & vbNewLine & "If malware is what it could be",48+vbOkOnly,"vid.mp4.exe")
+x=msgbox("Though even then, please hurry not" & vbNewLine & "So by surprise you are not caught" & vbNewLine & "Rethink once more if what you've got" & vbNewLine & "Could really be the thing you thought",48+vbOkOnly,"vid.mp4.exe")
+x=msgbox("My time is over, I am done" & vbNewLine & "So once you close me, I am gone" & vbNewLine & "What I destroyed, I'll recreate" & vbNewLine & "My job was just to educate",48+vbOkOnly,"vid.mp4.exe")
+x=msgbox("I wish that next time you're inclined" & vbNewLine & "To run some unknown file you find" & vbNewLine & "You spend a thought, or even six" & vbNewLine & "To not fall prey to malware tricks.",48+vbOkOnly,"vid.mp4.exe")
